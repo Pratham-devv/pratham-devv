@@ -1,56 +1,157 @@
-# Hi, I'm Pratham 👋
+<div align="center">
 
-### Full-Stack Developer | AI Engineer | Open Source Contributor
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratham%20Sehdev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Dev%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=51&descAlign=50&descSize=16" />
 
-📍 Delhi, India
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58D5F7&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;Exploring+AI+%26+Machine+Learning;Contributing+to+Open+Source+(Rocket.Chat%2C+GSoC);2nd+Year+CS+Engineering+Student;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Social Badges -->
+[
+[
+[
+[
 
-I'm a 2nd-year Computer Science Engineering student passionate about building full-stack web applications and exploring AI engineering. I love contributing to open-source projects and turning ideas into real products.
 
----
 
-## 🚀 Tech Stack
+</div>
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, ShadCN UI
+***
 
-**Backend:** Node.js, Express, Django, Wagtail (Python CMS)
+## 🧑‍💻 About Me
 
-**AI/ML:** Python, RAG, LLMs, Vector Databases
+```ts
+const pratham = {
+  name: "Pratham Sehdev",
+  role: "Full-Stack Developer & AI Enthusiast",
+  education: "2nd Year CS Engineering Student",
+  location: "Delhi, India 🇮🇳",
+  currentFocus: ["GSoC 2025", "AI Engineering", "Open Source"],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:  ["Node.js", "Django", "Python", "REST APIs"],
+    ai:       ["LangChain", "OpenAI API", "ML Fundamentals"],
+    tools:    ["Git", "Docker", "Vercel", "GitHub Actions"],
+  },
+  openSource: ["Rocket.Chat / EmbeddedChat", "Django Wagtail"],
+  funFact: "I debug code at 2 AM and call it productivity 🌙",
+};
+```
 
-**Tools:** Git, GitHub, Vercel, Docker
+***
 
----
+## 🚀 What I'm Up To
 
-## 📦 Featured Projects
+- 🔭 Currently building **[Nyaya AI](https://github.com/Pratham-devv/nyaya-ai)** — an AI-powered legal assistant
+- 🌱 Learning **LangChain, Vector DBs, and Agentic AI systems**
+- 👯 Open to collaborate on **React, Django, or AI projects**
+- 🎯 Goal for 2025: **Get into GSoC & land an AI Engineering internship**
+- 💬 Ask me about **MERN Stack, Python, Open Source contribution**
 
-- **[nyaya-ai](https://github.com/pratham-devv/nyaya-ai)** — AI-powered Indian legal document drafting platform
-- **[EmbeddedChat](https://github.com/pratham-devv/EmbeddedChat)** — Rocket.Chat embed component (Open Source)
-- **[GitHub-Profile-Analyzer](https://github.com/pratham-devv/GitHub-Profile-Analyzer)** — Analyze any GitHub profile with React + TypeScript
-- **[Portfolio](https://github.com/pratham-devv/Portfolio)** — My personal portfolio website
+***
 
----
+## 🛠️ Tech Stack
 
-## 🌱 What I'm Learning
+<div align="center">
 
-- AI Engineering (RAG, LLMs, Vector DBs)
-- MLOps & Model Deployment
-- Advanced React Patterns
-- System Design
+### Languages
 
----
 
-## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-devv)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pratham-devv)
 
----
+### Frontend
+
+
+
+
+### Backend & Databases
+
+
+
+
+
+### AI / ML
+
+
+
+### Tools
+
+
+
+
+
+</div>
+
+***
 
 ## 📊 GitHub Stats
 
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham-devv&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-devv&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham-devv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58d5f7&icon_color=58d5f7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-devv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58d5f7&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-devv&theme=tokyonight&hide_border=true&background=0d1117&stroke=58d5f7&ring=58d5f7&fire=ff6b6b&currStreakLabel=58d5f7" alt="GitHub Streak"/>
+
+</div>
+
+***
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-devv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+***
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[
+[
+
+[
+[
+
+</div>
+
+***
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-devv&theme=tokyo-night&bg_color=0d1117&color=58d5f7&line=58d5f7&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+***
+
+## 🤝 Open Source Contributions
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🚀 [Rocket.Chat / EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) | Full-stack ReactJS component embedding Rocket.Chat into webapps | Active Contributor |
+| 🌿 Django Wagtail | Python CMS framework contributions | Contributor |
+
+***
+
+<div align="center">
+
+### 💭 Dev Quote of the Day
+
+
+***
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+⭐️ If you find my projects helpful, give them a star!
+
+</div>
