@@ -30,12 +30,13 @@ const pratham = {
   role: "Full-Stack Developer & AI Enthusiast",
   education: "2nd Year CS Engineering Student",
   location: "Delhi, India 🇮🇳",
-  currentFocus: ["GSoC 2025", "AI Engineering", "Open Source"],
+  currentFocus: ["GSoC 2026", "AI Engineering", "Open Source"],
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:  ["Node.js", "Django", "Python", "REST APIs"],
+    backend:  ["Node.js", "FastAPI", "Python", "REST APIs"],
+    database: ["Postgres , MySql, MongoDB],
     ai:       ["LangChain", "OpenAI API", "ML Fundamentals"],
-    tools:    ["Git", "Docker", "Vercel", "GitHub Actions"],
+    tools:    ["Git", "Render", "Vercel", "GitHub Actions"],
   },
   openSource: ["Rocket.Chat / EmbeddedChat", "Django Wagtail"],
   funFact: "I debug code at 2 AM and call it productivity 🌙",
@@ -48,9 +49,9 @@ const pratham = {
 
 - 🔭 Currently building **[Nyaya AI](https://github.com/Pratham-devv/nyaya-ai)** — an AI-powered legal assistant
 - 🌱 Learning **LangChain, Vector DBs, and Agentic AI systems**
-- 👯 Open to collaborate on **React, Django, or AI projects**
-- 🎯 Goal for 2025: **Get into GSoC & land an AI Engineering internship**
-- 💬 Ask me about **MERN Stack, Python, Open Source contribution**
+- 👯 Open to collaborate on **Full-Stack and AI projects**
+- 🎯 Goal for 2026: **Get an full-stack internship and learn ai-engineering**
+- 💬 Ask me about **MERN Stack, Python, Freelancer, Open Source contribution**
 
 ***
 
