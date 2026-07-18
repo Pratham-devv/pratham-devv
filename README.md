@@ -12,7 +12,7 @@
 
 # 👋 About Me
 
-```ts
+\`\`\`ts
 const pratham = {
   name: "Pratham Sehdev",
 
@@ -47,7 +47,7 @@ const pratham = {
   motto:
     "Build. Learn. Improve. Repeat."
 };
-```
+\`\`\`
 
 ---
 
@@ -149,7 +149,7 @@ React • Express • MongoDB
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratham-devv&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratham-devv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-devv&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -157,7 +157,7 @@ React • Express • MongoDB
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pratham-devv&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Pratham-devv&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -202,7 +202,6 @@ React • Express • MongoDB
 - ✅ Master Next.js
 - ✅ Learn AI Agents
 
-
 ---
 
 # 📫 Connect With Me
@@ -238,4 +237,3 @@ React • Express • MongoDB
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
-
