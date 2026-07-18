@@ -12,7 +12,7 @@
 
 # 👋 About Me
 
-\`\`\`ts
+```ts
 const pratham = {
   name: "Pratham Sehdev",
 
@@ -47,7 +47,7 @@ const pratham = {
   motto:
     "Build. Learn. Improve. Repeat."
 };
-\`\`\`
+```
 
 ---
 
@@ -202,6 +202,7 @@ React • Express • MongoDB
 - ✅ Master Next.js
 - ✅ Learn AI Agents
 
+
 ---
 
 # 📫 Connect With Me
@@ -237,3 +238,4 @@ React • Express • MongoDB
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
+
