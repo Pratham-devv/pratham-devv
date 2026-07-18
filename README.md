@@ -201,7 +201,7 @@ React • Express • MongoDB
 - ✅ Build Production SaaS Projects
 - ✅ Master Next.js
 - ✅ Learn AI Agents
-- ✅ Secure a Great Internship
+
 
 ---
 
